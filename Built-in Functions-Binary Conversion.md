@@ -11,11 +11,11 @@ To write a Python program to convert the number **16** into its **binary represe
 ## 🧾 Program
 
 Add Code Here
-'''
+```
 a=16
 b=bin(a)
 print("Binary representation of",a, "is",b)
-'''
+```
 ## Output
 <img width="1726" height="988" alt="image" src="https://github.com/user-attachments/assets/d690e2bb-3138-4c73-b68b-9b1cb41e21f1" />
 
